@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 🚀 Deployment 🚀
 
-To access the app on Render.com, please follow this link: [Access the App on Render.com](https://blog-project-c788a.web.app/) 🌐✨.
+To access the app on firebase.com, please follow this link: [Access the App on Firebase.com](https://blog-project-c788a.web.app/) 🌐✨.
 
 ## Available Scripts
 
