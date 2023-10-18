@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 🚀
 
+#### Note:- To create the 'build' file use ▶️ `npm run build`▶️
+
 ## 🚀 Deployment 🚀
 
 To access the app on firebase.com, please follow this link: [Access the App on Firebase.com](https://blog-project-c788a.web.app/) 🌐✨.
